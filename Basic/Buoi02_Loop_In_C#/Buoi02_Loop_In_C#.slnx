@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Bai02BissinesLogicLayer/Bai02BissinesLogicLayer.csproj" />
+  <Project Path="Buoi02Common/Buoi02Common.csproj" />
+  <Project Path="Buoi02_Loop_In_C#.csproj" />
+</Solution>
